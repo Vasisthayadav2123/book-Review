@@ -82,6 +82,7 @@ cd book-world
 #### Install packages
 
 ```shell
+cd book-world
 cd backend
 npm install
 cd ..
